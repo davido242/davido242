@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Monday David S.
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning react-redux
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me via mail: Davidsarka242@gmail.com
 
