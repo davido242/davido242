@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me via mail: Davidsarka242@gmail.com
+- 📫 Email: Davidsarka242@gmail.com
 
 <!---
 davido242/davido242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
