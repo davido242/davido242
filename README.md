@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Monday David S.
+- 👋 Hi, I’m David
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 MERN Stack
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Email: Davidsarka242@gmail.com
 
